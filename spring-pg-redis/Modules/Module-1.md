@@ -55,8 +55,9 @@ Docker Desktop запущен, в трее (системном лотке) ви�
 
 **Windows:**
 ```cmd
-mkdir p2p-payments-project
-cd p2p-payments-project
+
+mkdir p2p-payments-project-chelenkov (#пишем свою фамилию, чтобы различать проекты)
+cd p2p-payments-project-chelenkov
 ```
 
 ### Шаг 2.2: Создание docker-compose.yml
